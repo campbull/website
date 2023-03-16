@@ -1,2 +1,2 @@
 # website
-what do i do
+nvm man
